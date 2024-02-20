@@ -24,5 +24,6 @@ terdapat 3 data shirt lalu di print for dengan bentuk print seperti tabel
 
 ### Run Program
 javac Main.java
+
 java Main
 
